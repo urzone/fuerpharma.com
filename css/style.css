@@ -39,8 +39,8 @@ img {
 body {
 	background: #fff;
 	color: #fff; /*#5A101C*/
-	  font-family: 'Sans', sans-serif;
-	text-transform: uppercase;
+	font-family: 'Sans', sans-serif;
+	/*text-transform: uppercase;*/
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
 }
@@ -71,7 +71,7 @@ h2 {
 	font-weight: 800;
 	line-height: 1em;
 	letter-spacing: 0.2em;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	color: #fff;/*#000000;*/
 }
 
@@ -210,7 +210,7 @@ h2 {
 	-webkit-transition: opacity 0.3s;
 	-moz-transition: opacity 0.3s;
 	transition: opacity 0.3s;
-	color: black;
+	color: white; /*black*/
 	font-size: 24px;
 }
 
